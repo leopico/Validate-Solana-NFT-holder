@@ -5,6 +5,4 @@
 <li>Give special access to holders (unlocking a button for book download)</li>
 
 </ul>
-<a href="https://serpent.academy">By Serpent Academy</a>
 <img src="nfts.png"/>
-
